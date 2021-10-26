@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, hej, moi!
+
+Mostly Vue 💚
+
+I'll fill this in with something useful at some point in time. At least I figured out how to make a profile README. Much wow.
 
 <!--
 **postmodernistx/postmodernistx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
