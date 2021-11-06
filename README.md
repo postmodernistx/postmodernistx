@@ -12,3 +12,4 @@ I'm a full-stack dev, splitting my time between Turku 🇫🇮 ⇄ Stockholm �
 - ⚙️ Tools: `.js`, `.vue`, `.php`, `.scss`, `.html`, `.svg`
 - 📫 Reach out: if it's anything colorful or super minimalist 💅 
 - ⚡ Fun fact: My first website used the `<marquee>` tag to a disturbing extent
+- I'm obsessed with 🍅 and 🍝
