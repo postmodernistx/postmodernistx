@@ -1,20 +1,14 @@
-### Hi, hej, moi!
+### Hi, hej, moi! 🤓 👋
 
-Mostly Vue 💚
+I'm a full-stack dev, splitting my time between Turku 🇫🇮 ⇄ Stockholm 🇸🇪 🚢
 
-I'll fill this in with something useful at some point in time. At least I figured out how to make a profile README. Much wow.
+##### NOW
+- 🔭 Working on some Vue-based utility apps for life management 💚
+- 🌱 Experimenting with WebGL
+- 💭 Next up: something with open data
+- 🏖️ Vacationing
 
-<!--
-**postmodernistx/postmodernistx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+- ⚙️ Tools: `.js`, `.vue`, `.php`, `.scss`, `.html`, `.svg`
+- 📫 Reach out: if it's anything colorful or super minimalist 💅 
+- ⚡ Fun fact: My first website used the `<marquee>` tag to a disturbing extent
