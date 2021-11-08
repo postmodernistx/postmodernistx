@@ -1,6 +1,6 @@
 ### Hi, hej, moi! 🤓 👋
 
-I'm a full-stack dev, splitting my time between Turku 🇫🇮 ⇄ Stockholm 🇸🇪 🚢
+I'm a full-stack dev, splitting my time between Turku, Finland 🇫🇮 ⇄ Stockholm, Sweden 🇸🇪 🚢
 
 ##### NOW
 - 🔭 Working on some Vue-based utility apps for life management 💚
