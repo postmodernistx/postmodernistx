@@ -1,9 +1,9 @@
 ### Hi, hej, moi! 🤓 👋
 
-I'm a full-stack dev, splitting my time between Turku, Finland (🇫🇮) ⇄ Stockholm, Sweden (🇸🇪), mostly by 🚢
+I'm a full-stack dev, splitting my time between Turku, Finland (🇫🇮) ⇄ Stockholm, Sweden (🇸🇪), mainly by 🚢.
 
-##### BIO
-- ⚙️ Dream stack: `.js`, `.vue`, `.scss`, `.html`, `.svg` (and `.php`), but I also do React and sometimes C# & Java
-- 📬 Reach out: if it's anything colorful or super minimalist 💅 
-- ⚡ Fun fact: My first website used the `<marquee>` tag to a disturbing extent
-- I'm obsessed with 🍅 and 🍝
+My dream tech stack is `.js`, `.vue`, `.scss`, `.html`, `.svg`, but I also do PHP, C# and Java, when it's required.
+
+I'll give anything a shot, at least twice.
+
+Random facts for personality: my first, super-ugly website, from '95, used the `<marquee>` tag to a disturbing extent, and I'm obsessed with 🍅 and 🍝.
