@@ -2,7 +2,7 @@
 
 I'm a full-stack dev, splitting my time between Turku, Finland (🇫🇮) ⇄ Stockholm, Sweden (🇸🇪), mainly by 🚢.
 
-My dream tech stack is `.js`, `.vue`, `.scss`, `.html`, `.svg`, but I also do PHP, C# and Java, when it's required.
+My dream tech stack is `.js`, `.vue`, `.scss`, `.html`, `.svg`, but I also do React, PHP, C# and Java, when it's required.
 
 I'll give anything a shot, at least twice.
 
