@@ -8,4 +8,7 @@ I'll give anything a shot, at least twice.
 
 Random facts for personality: my first, super-ugly website, from '95, used the `<marquee>` tag to a disturbing extent, and I'm obsessed with 🍅 and 🍝.
 
+#### Miscellaneous stats
+<img src="https://github-readme-stats.vercel.app/api?username=postmodernistx&count_private=true&show_icons=true&theme=radical&hide=stars">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=postmodernistx&langs_count=10&layout=compact&theme=radical)
