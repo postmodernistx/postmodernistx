@@ -35,7 +35,7 @@ I'm a creative technologist, splitting my time between Turku, Finland (🇫🇮)
     <li>My first, super-ugly website, from '95, used the `<marquee>` tag to a disturbing extent</li>
     <li>That same website had a lime green background and blue text. 👍 for a11y 🤦</li>
     <li>I'm obsessed with 🍅 and 🍝</li>
-    <li>I _love_ meeting new people & chatting, so [post a discussion in this repo](https://github.com/postmodernistx/postmodernistx/discussions) & let's chat if you're a daredevil!</li>
+    <li>I _love_ meeting new people & chatting, so <a href="https://github.com/postmodernistx/postmodernistx/discussions">post a discussion in this repo</a> & let's chat if you're a daredevil!</li>
     <li>For the shy ones, you can find me on LinkedIn or e-mail me at <a href="mailto:teapot@jennipulli.se">teapot@jennipulli.se</a></li>
   </ul>
 </details>
