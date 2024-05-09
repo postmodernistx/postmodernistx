@@ -6,7 +6,7 @@ I'm a creative technologist, splitting my time between Turku, Finland (🇫🇮)
 - ✨ CSS with Sass, Tailwind, responsive web animations & transitions
 - 🚸 Semantics, accessibility, HTML5 (+ legacy templating systems like Pug/Jade)
 - 🗃️ Firebase first, MySQL, PostgreSQL, MongoDB last
-- 👵 I also know WordPress (standard & headless), ActionScript 3 (🪦 RIP), OOP, PHP, C# (but my head hurts real bad afterwards), and Java
+- 👵 I also know WordPress (standard & headless), ActionScript 3 (🪦 RIP), OOP, PHP, very little C# (but my head hurts real bad afterwards), and Java
 - 🔮 **Currently spinning**: Vite, Vue, Astro, Tailwind
 
 ## Random facts for personality
