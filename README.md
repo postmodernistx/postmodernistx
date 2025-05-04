@@ -2,11 +2,11 @@
 
 I'm a creative technologist, splitting my time between Turku, Finland (🇫🇮) ⇄ Stockholm, Sweden (🇸🇪), mainly by 🚢.
 
-- 👩‍💻 JavaScript: Vue, TypeScript, ES6, Vitest, Express, Node.js. Eww but OK if I have to: React, jQuery, KnockoutJS
-- ✨ CSS with Sass, Tailwind, responsive web animations & transitions
+- 👩‍💻 JavaScript: Vue 💚, TypeScript, ES6, Vitest, Express, Node.js. Not the biggest fan, but never say never: React, jQuery, KnockoutJS
+- ✨ CSS pure & with Sass, also Tailwind, responsive web animations & transitions (GSAP 🙌)
 - 🚸 Semantics, accessibility, HTML5 (+ legacy templating systems like Pug/Jade)
-- 🗃️ Firebase first, MySQL, PostgreSQL, MongoDB last
-- 👵 I also know WordPress (standard & headless), ActionScript 3 (🪦 RIP), OOP, PHP, very little C# (but my head hurts real bad afterwards), and Java
+- 🗃️ Firebase first, but I also know MySQL, PostgreSQL and MongoDB
+- 👵 WordPress (standard & headless) ever since its predecessor Greymatter, ActionScript 3 (🪦 RIP), OOP, PHP, very little C#, and some Java.
 - 🔮 **Currently spinning**: Vite, Vue, Astro, Tailwind
 
 ## Random facts for personality
@@ -28,4 +28,5 @@ Since my dev journey started in '95, I've…
 - Taught front-end developers since 2011 in tech trainings & courses
 - Realized the importance of technical writing and documentation
 - Remembered multiple times how hard it is to keep up with everything web 🤿
+- Experimented and done a lot of quick & dirty PoCs as well as some well-documented, well-written heavy duty systems
 
