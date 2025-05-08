@@ -13,8 +13,6 @@ I'm a creative technologist, splitting my time between Turku, Finland (🇫🇮)
 - My first, super-ugly website, from '95, used the `marquee` tag to a disturbing extent
 - That same website had a lime green background and blue text. 👍 for a11y 🤦
 - I'm obsessed with 🍅 and 🍝
-- I <em>love</em> meeting new people & chatting, so <a href="https://github.com/postmodernistx/postmodernistx/discussions">post a discussion in this repo</a> & let's chat if you're a daredevil!
-- For the shy ones, you can find me on LinkedIn or e-mail me at <a href="mailto:teapot@jennipulli.se">teapot@jennipulli.se</a>
 
 ## Random brags (mostly for developer profiling)
 Since my dev journey started in '95, I've…
